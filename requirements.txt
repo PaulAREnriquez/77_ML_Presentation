@@ -5,7 +5,6 @@ arrow==1.2.3
 asttokens==2.2.1
 attrs==22.2.0
 backcall==0.2.0
-beautifulsoup4==4.11.1
 bleach==5.0.1
 category-encoders==2.6.0
 certifi==2022.12.7
@@ -62,7 +61,6 @@ networkx==3.0
 notebook==6.5.2
 notebook_shim==0.2.2
 numpy==1.24.1
-opencv-python==4.7.0.72
 packaging==22.0
 pandas==1.5.2
 pandocfilters==1.5.0
@@ -105,9 +103,6 @@ sympy==1.11.1
 terminado==0.17.1
 threadpoolctl==3.1.0
 tinycss2==1.2.1
-torch==2.0.0
-torchaudio==2.0.1
-torchvision==0.15.1
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.8.0
